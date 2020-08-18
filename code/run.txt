@@ -1,3 +1,0 @@
-python main.py
-ou
-python3 main.py
